@@ -8,3 +8,13 @@ C:\Users\stell\Documents\GitHub\ieiWebScraping\IEIWindowsForms\obj\Debug\IEIWind
 C:\Users\stell\Documents\GitHub\ieiWebScraping\IEIWindowsForms\obj\Debug\IEIWindowsForms.csproj.CoreCompileInputs.cache
 C:\Users\stell\Documents\GitHub\ieiWebScraping\IEIWindowsForms\obj\Debug\IEIWindowsForms.exe
 C:\Users\stell\Documents\GitHub\ieiWebScraping\IEIWindowsForms\obj\Debug\IEIWindowsForms.pdb
+C:\Users\stell\Documents\GitHub\IEI__Entrega_Web\bin\Debug\IEIWindowsForms.exe.config
+C:\Users\stell\Documents\GitHub\IEI__Entrega_Web\bin\Debug\IEIWindowsForms.exe
+C:\Users\stell\Documents\GitHub\IEI__Entrega_Web\bin\Debug\IEIWindowsForms.pdb
+C:\Users\stell\Documents\GitHub\IEI__Entrega_Web\obj\Debug\IEIWindowsForms.csprojAssemblyReference.cache
+C:\Users\stell\Documents\GitHub\IEI__Entrega_Web\obj\Debug\IEIWindowsForms.Form1.resources
+C:\Users\stell\Documents\GitHub\IEI__Entrega_Web\obj\Debug\IEIWindowsForms.Properties.Resources.resources
+C:\Users\stell\Documents\GitHub\IEI__Entrega_Web\obj\Debug\IEIWindowsForms.csproj.GenerateResource.cache
+C:\Users\stell\Documents\GitHub\IEI__Entrega_Web\obj\Debug\IEIWindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\stell\Documents\GitHub\IEI__Entrega_Web\obj\Debug\IEIWindowsForms.exe
+C:\Users\stell\Documents\GitHub\IEI__Entrega_Web\obj\Debug\IEIWindowsForms.pdb

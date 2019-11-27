@@ -29,7 +29,7 @@
         private void InitializeComponent()
         {
             this.comboBoxMarca = new System.Windows.Forms.ComboBox();
-            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.textBoxModelo = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.BotonBuscar = new System.Windows.Forms.Button();
@@ -46,12 +46,12 @@
             this.comboBoxMarca.Size = new System.Drawing.Size(572, 21);
             this.comboBoxMarca.TabIndex = 0;
             // 
-            // textBox1
+            // textBoxModelo
             // 
-            this.textBox1.Location = new System.Drawing.Point(127, 66);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(572, 20);
-            this.textBox1.TabIndex = 1;
+            this.textBoxModelo.Location = new System.Drawing.Point(127, 66);
+            this.textBoxModelo.Name = "textBoxModelo";
+            this.textBoxModelo.Size = new System.Drawing.Size(572, 20);
+            this.textBoxModelo.TabIndex = 1;
             // 
             // label1
             // 
@@ -122,7 +122,7 @@
             this.Controls.Add(this.BotonBuscar);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.textBoxModelo);
             this.Controls.Add(this.comboBoxMarca);
             this.Name = "Form1";
             this.Text = "Form1";
@@ -134,7 +134,7 @@
         #endregion
 
         private System.Windows.Forms.ComboBox comboBoxMarca;
-        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.TextBox textBoxModelo;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Button BotonBuscar;

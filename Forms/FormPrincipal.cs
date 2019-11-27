@@ -27,14 +27,13 @@ namespace IEIWindowsForms
             comboBoxMarca.Items.Add("Lenovo");
             comboBoxMarca.Items.Add("Xiaomi");
 
-            marca = comboBoxMarca.SelectedItem.ToString();
-            Console.WriteLine(marca);
 
         }
 
         private void BotonBuscar_Click(object sender, EventArgs e)
         {
-
+            marca = comboBoxMarca.SelectedItem.ToString();
+            modelo = textBoxModelo.Text;
         }
     }
 }
